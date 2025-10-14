@@ -1,0 +1,28 @@
+
+section{
+    margin: 50px;
+}
+
+.rrr{
+    color: wheat;
+    background-color: rosybrown;
+    padding: 15px;
+    font-weight: bold;
+}
+
+.faq{
+    padding: 40px;
+    margin: 100px;
+    color: #626264;
+}
+
+.tryit {
+    background-color: rgb(25, 48, 150);
+    color: azure;
+    padding: 15px;
+    border-radius: 2mm;
+}
+
+.highlight{
+    color: #13ab67;
+}
