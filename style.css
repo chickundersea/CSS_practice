@@ -8,6 +8,7 @@ section{
     background-color: rosybrown;
     padding: 15px;
     font-weight: bold;
+    margin: 30px;
 }
 
 .faq{
@@ -21,8 +22,33 @@ section{
     color: azure;
     padding: 15px;
     border-radius: 2mm;
+    margin: 30px;
 }
 
 .highlight{
     color: #13ab67;
+}
+.purchase {
+    width: 300px;;
+    padding: 20px;
+    background-color: #626264;
+
+}
+.heading{
+    font-size: 36px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+.lorem {
+    color: azure;
+}
+
+.comeon{
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: larger;
+    font-weight: bold;
+    color: rgb(44, 43, 43);
+
 }
